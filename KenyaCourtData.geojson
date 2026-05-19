@@ -1,0 +1,298 @@
+{
+  "type": "FeatureCollection",
+  "name": "kenya_court_stations",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Supreme Court of Kenya (Headquarters)",
+        "county": "Nairobi",
+        "rank": "Supreme Court",
+        "amenity": "courthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.8228, -1.2861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milimani Law Courts",
+        "county": "Nairobi",
+        "rank": "High Court / Subordinate",
+        "amenity": "courthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.8094, -1.2917]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kibera Law Courts",
+        "county": "Nairobi",
+        "rank": "Magistrates Court",
+        "amenity": "courthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.7845, -1.3114]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Makadara Law Courts",
+        "county": "Nairobi",
+        "rank": "Magistrates Court",
+        "amenity": "courthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.8711, -1.3005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mombasa Law Courts",
+        "county": "Mombasa",
+        "rank": "Court of Appeal / High Court",
+        "amenity": "courthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.6714, -4.0619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shanzu Law Courts",
+        "county": "Mombasa",
+        "rank": "Magistrates Court",
+        "amenity": "courthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.7533, -3.9725]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nakuru Law Courts",
+        "county": "Nakuru",
+        "rank": "High Court / Magistrates",
+        "amenity": "courthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.0718, -0.2867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naivasha Law Courts",
+        "county": "Nakuru",
+        "rank": "High Court / Environment and Land Court",
+        "amenity": "courthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.4356, -0.7183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Molo Law Courts",
+        "county": "Nakuru",
+        "rank": "Magistrates Court",
+        "amenity": "courthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.7335, -0.2483]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gilgil Law Courts",
+        "county": "Nakuru",
+        "rank": "Magistrates Court",
+        "amenity": "courthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.3197, -0.4859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kisumu Law Courts",
+        "county": "Kisumu",
+        "rank": "Court of Appeal / High Court",
+        "amenity": "courthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.7512, -0.1042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eldoret Law Courts",
+        "county": "Uasin Gishu",
+        "rank": "High Court / ELRC / ELC",
+        "amenity": "courthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.2755, 0.5144]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiambu Law Courts",
+        "county": "Kiambu",
+        "rank": "High Court / Magistrates",
+        "amenity": "courthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.8288, -1.1714]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thika Law Courts",
+        "county": "Kiambu",
+        "rank": "High Court / Magistrates",
+        "amenity": "courthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.0781, -1.0396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Machakos Law Courts",
+        "county": "Machakos",
+        "rank": "High Court / Magistrates",
+        "amenity": "courthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.2634, -1.5174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kajiado Law Courts",
+        "county": "Kajiado",
+        "rank": "High Court / Magistrates",
+        "amenity": "courthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.7818, -1.8481]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kisii Law Courts",
+        "county": "Kisii",
+        "rank": "High Court / Magistrates",
+        "amenity": "courthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.7742, -0.6817]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kakamega Law Courts",
+        "county": "Kakamega",
+        "rank": "High Court / Magistrates",
+        "amenity": "courthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.7594, 0.2842]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nyeri Law Courts",
+        "county": "Nyeri",
+        "rank": "Court of Appeal / High Court",
+        "amenity": "courthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.9483, -0.4241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meru Law Courts",
+        "county": "Meru",
+        "rank": "High Court / Magistrates",
+        "amenity": "courthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.6559, 0.0514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garissa Law Courts",
+        "county": "Garissa",
+        "rank": "High Court / Magistrates",
+        "amenity": "courthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.6461, -0.4569]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lodwar Law Courts",
+        "county": "Turkana",
+        "rank": "High Court / Magistrates",
+        "amenity": "courthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.5972, 3.1194]
+      }
+    }
+  ]
+}
