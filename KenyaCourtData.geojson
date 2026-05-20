@@ -16,9 +16,15 @@
         "county": "Nairobi",
         "Region": "HQ",
         "court_level": "Headquarters",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.8108, -1.2972] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8108,
+          -1.2972
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -28,9 +34,15 @@
         "county": "Nairobi",
         "Region": "Nairobi Region",
         "court_level": "High Court / Court of Appeal",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.8114, -1.2922] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8114,
+          -1.2922
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -40,9 +52,15 @@
         "county": "Nairobi",
         "Region": "Nairobi Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.7657, -1.3080] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7657,
+          -1.308
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -52,9 +70,15 @@
         "county": "Nairobi",
         "Region": "Nairobi Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.8586, -1.2955] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8586,
+          -1.2955
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -64,9 +88,15 @@
         "county": "Nairobi",
         "Region": "Nairobi Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.8487, -1.2773] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8487,
+          -1.2773
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -76,9 +106,15 @@
         "county": "Nairobi",
         "Region": "Nairobi Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.9795, -1.4548] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9795,
+          -1.4548
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -88,9 +124,15 @@
         "county": "Machakos",
         "Region": "Nairobi Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [37.3450, -1.2486] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.345,
+          -1.2486
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -100,9 +142,15 @@
         "county": "Mombasa",
         "Region": "Coast Region",
         "court_level": "Regional Office",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [39.6614, -4.0430] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6614,
+          -4.043
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -112,9 +160,15 @@
         "county": "Mombasa",
         "Region": "Coast Region",
         "court_level": "High Court / Court of Appeal",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [39.6661, -4.0614] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6661,
+          -4.0614
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -124,9 +178,15 @@
         "county": "Mombasa",
         "Region": "Coast Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [39.7158, -3.9140] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7158,
+          -3.914
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -136,9 +196,15 @@
         "county": "Kwale",
         "Region": "Coast Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [39.4519, -4.1737] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4519,
+          -4.1737
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -148,9 +214,15 @@
         "county": "Kwale",
         "Region": "Coast Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [39.4906, -4.4673] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4906,
+          -4.4673
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -160,9 +232,15 @@
         "county": "Kwale",
         "Region": "Coast Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [39.1108, -4.5645] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1108,
+          -4.5645
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -172,9 +250,15 @@
         "county": "Kilifi",
         "Region": "Coast Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [39.8519, -3.6305] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8519,
+          -3.6305
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -184,9 +268,15 @@
         "county": "Kilifi",
         "Region": "Coast Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [40.1169, -3.2177] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1169,
+          -3.2177
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -196,9 +286,15 @@
         "county": "Kilifi",
         "Region": "Coast Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [39.6522, -3.8361] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6522,
+          -3.8361
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -208,9 +304,15 @@
         "county": "Tana River",
         "Region": "Coast Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [40.0295, -1.5022] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.0295,
+          -1.5022
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -220,9 +322,15 @@
         "county": "Tana River",
         "Region": "Coast Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [40.1067, -2.2707] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1067,
+          -2.2707
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -232,9 +340,15 @@
         "county": "Lamu",
         "Region": "Coast Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [40.9018, -2.2686] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9018,
+          -2.2686
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -244,9 +358,15 @@
         "county": "Taita Taveta",
         "Region": "Coast Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [38.5564, -3.3957] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5564,
+          -3.3957
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -256,9 +376,15 @@
         "county": "Taita Taveta",
         "Region": "Coast Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [38.3573, -3.3998] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.3573,
+          -3.3998
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -266,11 +392,17 @@
         "id": 22,
         "name": "Garissa Law Courts",
         "county": "Garissa",
-        "Region": "North Lower Eastern Region",
+        "Region": "North Eastern Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [39.6461, -0.4569] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6461,
+          -0.4569
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -278,11 +410,17 @@
         "id": 23,
         "name": "Dadaab Law Courts",
         "county": "Garissa",
-        "Region": "North Lower Eastern Region",
+        "Region": "North Eastern Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [40.3085, 0.0636] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.3085,
+          0.0636
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -290,11 +428,17 @@
         "id": 24,
         "name": "Wajir Law Courts",
         "county": "Wajir",
-        "Region": "North Lower Eastern Region",
+        "Region": "North Eastern Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [40.0573, 1.7471] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.0573,
+          1.7471
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -302,11 +446,17 @@
         "id": 25,
         "name": "Mandera Law Courts",
         "county": "Mandera",
-        "Region": "North Lower Eastern Region",
+        "Region": "North Eastern Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [41.8524, 3.9366] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.8524,
+          3.9366
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -314,11 +464,17 @@
         "id": 26,
         "name": "Marsabit Law Courts",
         "county": "Marsabit",
-        "Region": "North Lower Eastern Region",
+        "Region": "North Eastern Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [37.9892, 2.3362] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9892,
+          2.3362
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -326,11 +482,17 @@
         "id": 27,
         "name": "Moyale Law Courts",
         "county": "Marsabit",
-        "Region": "North Lower Eastern Region",
+        "Region": "North Eastern Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [39.0557, 3.5238] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0557,
+          3.5238
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -338,11 +500,17 @@
         "id": 28,
         "name": "Isiolo Law Courts",
         "county": "Isiolo",
-        "Region": "North Lower Eastern Region",
+        "Region": "North Eastern Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [37.5833, 0.3500] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5833,
+          0.35
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -350,11 +518,17 @@
         "id": 29,
         "name": "Meru Law Courts",
         "county": "Meru",
-        "Region": "Lower Lower Eastern Region",
+        "Region": "Lower Eastern Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [37.6559, 0.0514] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6559,
+          0.0514
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -362,11 +536,17 @@
         "id": 30,
         "name": "Nkubu Law Courts",
         "county": "Meru",
-        "Region": "Lower Lower Eastern Region",
+        "Region": "Lower Eastern Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [37.6281, -0.1650] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6281,
+          -0.165
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -374,11 +554,17 @@
         "id": 31,
         "name": "Chuka Law Courts",
         "county": "Tharaka Nithi",
-        "Region": "Lower Lower Eastern Region",
+        "Region": "Lower Eastern Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [37.6495, -0.3377] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6495,
+          -0.3377
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -386,11 +572,17 @@
         "id": 32,
         "name": "Marimanti Law Courts",
         "county": "Tharaka Nithi",
-        "Region": "Lower Lower Eastern Region",
+        "Region": "Lower Eastern Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [37.9053, 0.0878] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9053,
+          0.0878
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -398,11 +590,17 @@
         "id": 33,
         "name": "Embu Law Courts",
         "county": "Embu",
-        "Region": "Lower Lower Eastern Region",
+        "Region": "Lower Eastern Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [37.4584, -0.5320] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4584,
+          -0.532
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -410,11 +608,17 @@
         "id": 34,
         "name": "Runyenjes Law Courts",
         "county": "Embu",
-        "Region": "Lower Lower Eastern Region",
+        "Region": "Lower Eastern Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [37.5731, -0.5738] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5731,
+          -0.5738
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -424,9 +628,15 @@
         "county": "Kitui",
         "Region": "Lower Eastern Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [38.0106, -1.3672] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0106,
+          -1.3672
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -436,9 +646,15 @@
         "county": "Kitui",
         "Region": "Lower Eastern Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [38.0620, -0.9380] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.062,
+          -0.938
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -448,9 +664,15 @@
         "county": "Kitui",
         "Region": "Lower Eastern Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [38.1957, -1.8437] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1957,
+          -1.8437
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -460,9 +682,15 @@
         "county": "Machakos",
         "Region": "Nairobi Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [37.2634, -1.5174] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2634,
+          -1.5174
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -472,33 +700,51 @@
         "county": "Makueni",
         "Region": "Nairobi Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [37.6351, -1.7787] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6351,
+          -1.7787
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": 40,
-        "name": "Makindu Law Courts",
+        "name": "Kibwezi Law Courts",
         "county": "Makueni",
         "Region": "Nairobi Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [37.9706, -2.4119] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9706,
+          -2.4119
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": 41,
-        "name": "Kilungu Law Courts",
+        "name": "Sultan Hamud Law Courts",
         "county": "Makueni",
         "Region": "Nairobi Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [-1.7773778,37.352122] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4154,
+          -2.0422
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -506,11 +752,17 @@
         "id": 42,
         "name": "Ol Kalou Law Courts",
         "county": "Nyandarua",
-        "Region": "Mt. Kenya Region",
+        "Region": "Central Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.3784, -0.2647] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3784,
+          -0.2647
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -518,11 +770,17 @@
         "id": 43,
         "name": "Njabini Law Courts",
         "county": "Nyandarua",
-        "Region": "Mt. Kenya Region",
+        "Region": "Central Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.5938, -0.6380] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5938,
+          -0.638
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -530,11 +788,17 @@
         "id": 44,
         "name": "Nyeri Law Courts",
         "county": "Nyeri",
-        "Region": "Mt. Kenya Region",
+        "Region": "Central Region",
         "court_level": "Court of Appeal / High Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.9483, -0.4241] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9483,
+          -0.4241
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -542,11 +806,17 @@
         "id": 45,
         "name": "Karatina Law Courts",
         "county": "Nyeri",
-        "Region": "Mt. Kenya Region",
+        "Region": "Central Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [37.1254, -0.4841] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1254,
+          -0.4841
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -554,11 +824,17 @@
         "id": 46,
         "name": "Othaya Law Courts",
         "county": "Nyeri",
-        "Region": "Mt. Kenya Region",
+        "Region": "Central Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.9337, -0.5685] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9337,
+          -0.5685
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -566,11 +842,17 @@
         "id": 47,
         "name": "Kerugoya Law Courts",
         "county": "Kirinyaga",
-        "Region": "Mt. Kenya Region",
+        "Region": "Central Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [37.2833, -0.4999] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2833,
+          -0.4999
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -578,11 +860,17 @@
         "id": 48,
         "name": "Baricho Law Courts",
         "county": "Kirinyaga",
-        "Region": "Mt. Kenya Region",
+        "Region": "Central Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [37.5169, -0.6498] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5169,
+          -0.6498
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -590,11 +878,17 @@
         "id": 49,
         "name": "Murang'a Law Courts",
         "county": "Murang'a",
-        "Region": "Mt. Kenya Region",
+        "Region": "Central Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [37.0289, -0.7237] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0289,
+          -0.7237
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -602,11 +896,17 @@
         "id": 50,
         "name": "Kangema Law Courts",
         "county": "Murang'a",
-        "Region": "Mt. Kenya Region",
+        "Region": "Central Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.9833, -0.7100] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9833,
+          -0.71
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -614,11 +914,17 @@
         "id": 51,
         "name": "Kandara Law Courts",
         "county": "Murang'a",
-        "Region": "Mt. Kenya Region",
+        "Region": "Central Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [37.0053, -0.8690] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0053,
+          -0.869
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -628,9 +934,15 @@
         "county": "Kiambu",
         "Region": "Nairobi Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.8288, -1.1714] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8288,
+          -1.1714
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -640,9 +952,15 @@
         "county": "Kiambu",
         "Region": "Nairobi Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [37.0781, -1.0396] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0781,
+          -1.0396
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -652,9 +970,15 @@
         "county": "Kiambu",
         "Region": "Nairobi Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.9620, -1.1442] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.962,
+          -1.1442
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -664,9 +988,15 @@
         "county": "Kiambu",
         "Region": "Nairobi Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.6389, -1.1132] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6389,
+          -1.1132
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -676,9 +1006,15 @@
         "county": "Kiambu",
         "Region": "Nairobi Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.9396, -0.9951] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9396,
+          -0.9951
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -688,9 +1024,15 @@
         "county": "Turkana",
         "Region": "Rift Valley Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [35.5972, 3.1194] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5972,
+          3.1194
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -700,9 +1042,15 @@
         "county": "Turkana",
         "Region": "Rift Valley Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.8699, 3.7167] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8699,
+          3.7167
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -712,9 +1060,15 @@
         "county": "Turkana",
         "Region": "Rift Valley Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [35.6784, 2.2380] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6784,
+          2.238
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -724,9 +1078,15 @@
         "county": "West Pokot",
         "Region": "Rift Valley Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [35.1115, 1.2392] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1115,
+          1.2392
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -736,9 +1096,15 @@
         "county": "West Pokot",
         "Region": "Rift Valley Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [35.0614, 1.5960] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0614,
+          1.596
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -748,9 +1114,15 @@
         "county": "Samburu",
         "Region": "Rift Valley Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.7010, 1.0985] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.701,
+          1.0985
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -760,9 +1132,15 @@
         "county": "Samburu",
         "Region": "Rift Valley Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.7930, 1.7823] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.793,
+          1.7823
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -772,9 +1150,15 @@
         "county": "Trans Nzoia",
         "Region": "Rift Valley Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [35.0038, 1.0145] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0038,
+          1.0145
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -784,9 +1168,15 @@
         "county": "Trans Nzoia",
         "Region": "Rift Valley Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.9338, 1.2246] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9338,
+          1.2246
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -796,9 +1186,15 @@
         "county": "Uasin Gishu",
         "Region": "Rift Valley Region",
         "court_level": "High Court / ELRC / ELC",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [35.2755, 0.5144] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2755,
+          0.5144
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -808,9 +1204,15 @@
         "county": "Elgeyo Marakwet",
         "Region": "Rift Valley Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [35.5103, 0.6729] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5103,
+          0.6729
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -820,9 +1222,15 @@
         "county": "Nandi",
         "Region": "Rift Valley Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [35.0993, 0.2034] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0993,
+          0.2034
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -832,9 +1240,15 @@
         "county": "Nandi",
         "Region": "Rift Valley Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [35.1776, 0.1003] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1776,
+          0.1003
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -844,9 +1258,15 @@
         "county": "Baringo",
         "Region": "Rift Valley Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [35.7420, 0.4916] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.742,
+          0.4916
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -856,9 +1276,15 @@
         "county": "Baringo",
         "Region": "Rift Valley Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [35.7147, 0.0521] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7147,
+          0.0521
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -866,11 +1292,17 @@
         "id": 72,
         "name": "Nanyuki Law Courts",
         "county": "Laikipia",
-        "Region": "Mt. Kenya Region",
+        "Region": "Rift Valley Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [37.0698, 0.0172] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0698,
+          0.0172
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -878,11 +1310,17 @@
         "id": 73,
         "name": "Rumuruti Law Courts",
         "county": "Laikipia",
-        "Region": "Mt. Kenya Region",
+        "Region": "Rift Valley Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.5433, 0.2711] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5433,
+          0.2711
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -892,9 +1330,15 @@
         "county": "Nakuru",
         "Region": "Rift Valley Region",
         "court_level": "High Court / Court of Appeal",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.0718, -0.2867] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0718,
+          -0.2867
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -904,9 +1348,15 @@
         "county": "Nakuru",
         "Region": "Rift Valley Region",
         "court_level": "High Court / ELC",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.4356, -0.7183] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4356,
+          -0.7183
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -916,9 +1366,15 @@
         "county": "Nakuru",
         "Region": "Rift Valley Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [35.7335, -0.2483] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7335,
+          -0.2483
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -928,9 +1384,15 @@
         "county": "Nakuru",
         "Region": "Rift Valley Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.3197, -0.4859] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3197,
+          -0.4859
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -940,9 +1402,15 @@
         "county": "Nakuru",
         "Region": "Rift Valley Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.1872, -0.1259] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1872,
+          -0.1259
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -952,9 +1420,15 @@
         "county": "Narok",
         "Region": "Rift Valley Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [35.8734, -1.0836] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8734,
+          -1.0836
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -964,9 +1438,15 @@
         "county": "Narok",
         "Region": "Rift Valley Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.8832, -1.0023] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8832,
+          -1.0023
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -976,9 +1456,15 @@
         "county": "Kajiado",
         "Region": "Nairobi Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.7818, -1.8481] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7818,
+          -1.8481
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -988,9 +1474,15 @@
         "county": "Kajiado",
         "Region": "Nairobi Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [36.6529, -1.3636] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6529,
+          -1.3636
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1000,9 +1492,15 @@
         "county": "Kajiado",
         "Region": "Nairobi Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [37.5282, -2.9044] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5282,
+          -2.9044
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1012,9 +1510,15 @@
         "county": "Kericho",
         "Region": "Rift Valley Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [35.2854, -0.3727] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2854,
+          -0.3727
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1024,9 +1528,15 @@
         "county": "Kericho",
         "Region": "Rift Valley Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [35.5896, -0.1539] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5896,
+          -0.1539
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1036,9 +1546,15 @@
         "county": "Bomet",
         "Region": "Rift Valley Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [35.3407, -0.7869] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3407,
+          -0.7869
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1048,9 +1564,15 @@
         "county": "Bomet",
         "Region": "Rift Valley Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [35.1206, -0.6702] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1206,
+          -0.6702
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1060,9 +1582,15 @@
         "county": "Kakamega",
         "Region": "Western Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.7594, 0.2842] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7594,
+          0.2842
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1072,9 +1600,15 @@
         "county": "Kakamega",
         "Region": "Western Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.4887, 0.3357] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4887,
+          0.3357
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1084,9 +1618,15 @@
         "county": "Kakamega",
         "Region": "Western Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.4963, 0.1960] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4963,
+          0.196
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1096,9 +1636,15 @@
         "county": "Vihiga",
         "Region": "Western Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.7236, 0.0669] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7236,
+          0.0669
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1108,9 +1654,15 @@
         "county": "Bungoma",
         "Region": "Western Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.5611, 0.5607] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5611,
+          0.5607
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1120,9 +1672,15 @@
         "county": "Bungoma",
         "Region": "Western Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.7707, 0.6171] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7707,
+          0.6171
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1132,9 +1690,15 @@
         "county": "Bungoma",
         "Region": "Western Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.7132, 0.7891] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7132,
+          0.7891
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1144,9 +1708,15 @@
         "county": "Busia",
         "Region": "Western Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.1114, 0.4611] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.1114,
+          0.4611
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1156,9 +1726,15 @@
         "county": "Busia",
         "Region": "Western Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [33.9823, 0.0947] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9823,
+          0.0947
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1168,9 +1744,15 @@
         "county": "Siaya",
         "Region": "Nyanza Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.2831, 0.0598] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2831,
+          0.0598
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1180,9 +1762,15 @@
         "county": "Siaya",
         "Region": "Nyanza Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.5359, 0.0939] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5359,
+          0.0939
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1192,9 +1780,15 @@
         "county": "Siaya",
         "Region": "Nyanza Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.3536, 0.2438] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3536,
+          0.2438
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1204,9 +1798,15 @@
         "county": "Kisumu",
         "Region": "Nyanza Region",
         "court_level": "Court of Appeal / High Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.7512, -0.1042] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7512,
+          -0.1042
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1216,9 +1816,15 @@
         "county": "Homa Bay",
         "Region": "Nyanza Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.4557, -0.5202] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4557,
+          -0.5202
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1228,9 +1834,15 @@
         "county": "Homa Bay",
         "Region": "Nyanza Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.2040, -0.4260] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.204,
+          -0.426
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1240,9 +1852,15 @@
         "county": "Homa Bay",
         "Region": "Nyanza Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.7265, -0.5264] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7265,
+          -0.5264
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1252,9 +1870,15 @@
         "county": "Migori",
         "Region": "Nyanza Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.4731, -1.0644] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4731,
+          -1.0644
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1264,9 +1888,15 @@
         "county": "Migori",
         "Region": "Nyanza Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.6234, -0.9127] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6234,
+          -0.9127
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1276,9 +1906,15 @@
         "county": "Migori",
         "Region": "Nyanza Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.5847, -0.7951] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5847,
+          -0.7951
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1288,9 +1924,15 @@
         "county": "Kisii",
         "Region": "Nyanza Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.7742, -0.6817] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7742,
+          -0.6817
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1300,9 +1942,15 @@
         "county": "Kisii",
         "Region": "Nyanza Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.9139, -0.8195] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9139,
+          -0.8195
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1312,9 +1960,15 @@
         "county": "Kisii",
         "Region": "Nyanza Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.8524, -0.7756] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8524,
+          -0.7756
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1324,9 +1978,15 @@
         "county": "Nyamira",
         "Region": "Nyanza Region",
         "court_level": "High Court / Magistrates",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [34.9366, -0.5673] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9366,
+          -0.5673
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1336,9 +1996,15 @@
         "county": "Nyamira",
         "Region": "Nyanza Region",
         "court_level": "Magistrates Court",
-        "Amenity": "ODPP Office"
+        "amenity": "ODPP Office"
       },
-      "geometry": { "type": "Point", "coordinates": [35.0003, -0.7161] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0003,
+          -0.7161
+        ]
+      }
     }
   ]
 }
